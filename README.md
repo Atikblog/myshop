@@ -109,7 +109,7 @@
 </div>
 
 
-      </div>
+      
       <div class="column">
         <img src="t shirt.jpg" alt="Forest" style="width:100%"><title>W3.CSS</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -121,7 +121,7 @@
           <input type="button" class="w3-button w3-black" value="Input Button">
           <button class="w3-button w3-black">Button Button</button>
           <a href="#" class="w3-button w3-black">Link Button</a>
-        </div>
+        
 
       </div>
       <div class="column">
@@ -135,7 +135,7 @@
           <input type="button" class="w3-button w3-black" value="Input Button">
           <button class="w3-button w3-black">Button Button</button>
           <a href="#" class="w3-button w3-black">Link Button</a>
-        </div>
+        
       </div>
       
     <div class="row">
@@ -150,7 +150,7 @@
           <input type="button" class="w3-button w3-black" value="Input Button">
           <button class="w3-button w3-black">Button Button</button>
           <a href="#" class="w3-button w3-black">Link Button</a>
-        </div>
+        
       </div>
       <div class="column">
         <img src="t shirt.jpg" alt="Forest" style="width:100%"><title>W3.CSS</title>
@@ -163,7 +163,7 @@
           <input type="button" class="w3-button w3-black" value="Input Button">
           <button class="w3-button w3-black">Button Button</button>
           <a href="#" class="w3-button w3-black">Link Button</a>
-        </div>
+        
       </div>
       <div class="column">
         <img src="download (1).jpg" alt="Mountains" style="width:100%"><title>W3.CSS</title>
@@ -176,7 +176,7 @@
           <input type="button" class="w3-button w3-black" value="Input Button">
           <button class="w3-button w3-black">Button Button</button>
           <a href="#" class="w3-button w3-black">Link Button</a>
-        </div>
+        
       </div>
       
     <div class="row">
@@ -191,7 +191,7 @@
           <input type="button" class="w3-button w3-black" value="Input Button">
           <button class="w3-button w3-black">Button Button</button>
           <a href="#" class="w3-button w3-black">Link Button</a>
-        </div>
+        
       </div>
       <div class="column">
         <img src="t shirt.jpg" alt="Forest" style="width:100%"><title>W3.CSS</title>
@@ -204,7 +204,7 @@
           <input type="button" class="w3-button w3-black" value="Input Button">
           <button class="w3-button w3-black">Button Button</button>
           <a href="#" class="w3-button w3-black">Link Button</a>
-        </div>
+        
       </div>
       <div class="column">
         <img src="download (1).jpg" alt="Mountains" style="width:100%"><title>W3.CSS</title>
@@ -217,7 +217,7 @@
           <input type="button" class="w3-button w3-black" value="Input Button">
           <button class="w3-button w3-black">Button Button</button>
           <a href="#" class="w3-button w3-black">Link Button</a>
-        </div>
+       
       </div>
     </div>
     
