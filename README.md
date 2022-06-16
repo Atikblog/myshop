@@ -1,5 +1,4 @@
 # myshop
-<!DOCTYPE html>
 <html>
   <head>
     <style>
